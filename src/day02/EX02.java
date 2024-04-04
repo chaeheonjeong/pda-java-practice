@@ -12,7 +12,7 @@ package day02;
 // 베컴도 핸드폰을 켰습니다.
 // "turn on"
 // "bbeep"
-public class EX02_2 {
+public class EX02 {
     public static void main(String[] args) {
         Store store = new Store();
         Person sony = new Person("sony");
